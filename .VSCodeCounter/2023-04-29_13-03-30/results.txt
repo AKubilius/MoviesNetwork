@@ -1,0 +1,139 @@
+Date : 2023-04-29 13:03:30
+Directory : e:\asdsadasd\FrontasBakio
+Total : 77 files,  16831 codes, 69 comments, 625 blanks, all 17525 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |     12,639 |          0 |          3 |     12,642 |
+| TypeScript JSX     |         54 |      3,755 |         41 |        536 |      4,332 |
+| CSS                |         12 |        297 |          0 |         57 |        354 |
+| XML                |          2 |         54 |          0 |          1 |         55 |
+| JSON with Comments |          1 |         26 |          0 |          1 |         27 |
+| Markdown           |          1 |         26 |          0 |         21 |         47 |
+| HTML               |          1 |         20 |         23 |          1 |         44 |
+| TypeScript         |          3 |         14 |          5 |          5 |         24 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         77 |     16,831 |         69 |        625 |     17,525 |
+| bakiofrontas                                                                              |         77 |     16,831 |         69 |        625 |     17,525 |
+| bakiofrontas (Files)                                                                      |          4 |     12,666 |          0 |         24 |     12,690 |
+| bakiofrontas\public                                                                       |          2 |         45 |         23 |          2 |         70 |
+| bakiofrontas\src                                                                          |         71 |      4,120 |         46 |        599 |      4,765 |
+| bakiofrontas\src (Files)                                                                  |          9 |        218 |         34 |         34 |        286 |
+| bakiofrontas\src\components                                                               |         61 |      3,849 |         12 |        564 |      4,425 |
+| bakiofrontas\src\components\Api                                                           |          1 |         58 |          0 |         14 |         72 |
+| bakiofrontas\src\components\Chat                                                          |          2 |        133 |          1 |         33 |        167 |
+| bakiofrontas\src\components\Container                                                     |          6 |        436 |          0 |         27 |        463 |
+| bakiofrontas\src\components\Filter                                                        |          3 |         59 |          0 |          6 |         65 |
+| bakiofrontas\src\components\Form                                                          |          2 |         68 |          0 |         11 |         79 |
+| bakiofrontas\src\components\FriendRequest                                                 |          2 |        136 |          1 |         23 |        160 |
+| bakiofrontas\src\components\Friends                                                       |          2 |        103 |          0 |         20 |        123 |
+| bakiofrontas\src\components\LeftSideBar                                                   |          1 |          8 |          0 |          1 |          9 |
+| bakiofrontas\src\components\Login                                                         |          3 |        246 |          0 |         22 |        268 |
+| bakiofrontas\src\components\Movie                                                         |          3 |        260 |          0 |         43 |        303 |
+| bakiofrontas\src\components\MoviesCollection                                              |          5 |        406 |          2 |         54 |        462 |
+| bakiofrontas\src\components\Mylist                                                        |          2 |         97 |          0 |         10 |        107 |
+| bakiofrontas\src\components\NavBar                                                        |          1 |        184 |          0 |         27 |        211 |
+| bakiofrontas\src\components\NotFound                                                      |          1 |         37 |          0 |          5 |         42 |
+| bakiofrontas\src\components\Post                                                          |          5 |        455 |          3 |         92 |        550 |
+| bakiofrontas\src\components\Profile                                                       |          1 |        144 |          0 |         22 |        166 |
+| bakiofrontas\src\components\ProtectedRoute                                                |          2 |         22 |          0 |          5 |         27 |
+| bakiofrontas\src\components\Recommendations                                               |          3 |        204 |          2 |         32 |        238 |
+| bakiofrontas\src\components\Register                                                      |          2 |        235 |          0 |         19 |        254 |
+| bakiofrontas\src\components\ResetPassword                                                 |          1 |         51 |          2 |          9 |         62 |
+| bakiofrontas\src\components\RightSideBar                                                  |          4 |        108 |          0 |         20 |        128 |
+| bakiofrontas\src\components\SearchBar                                                     |          1 |         49 |          1 |          9 |         59 |
+| bakiofrontas\src\components\Tabs                                                          |          4 |        211 |          0 |         34 |        245 |
+| bakiofrontas\src\components\Users                                                         |          4 |        139 |          0 |         26 |        165 |
+| bakiofrontas\src\img                                                                      |          1 |         53 |          0 |          1 |         54 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                  | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| e:\asdsadasd\FrontasBakio\bakiofrontas\README.md                                          | Markdown           |         26 |          0 |         21 |         47 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\package-lock.json                                  | JSON               |     12,561 |          0 |          1 |     12,562 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\package.json                                       | JSON               |         53 |          0 |          1 |         54 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\public\index.html                                  | HTML               |         20 |         23 |          1 |         44 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\public\manifest.json                               | JSON               |         25 |          0 |          1 |         26 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.css                                        | CSS                |         33 |          0 |          7 |         40 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.test.tsx                                   | TypeScript JSX     |          8 |          0 |          2 |         10 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.tsx                                        | TypeScript JSX     |         12 |          0 |          3 |         15 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Api\Api.tsx                         | TypeScript JSX     |         58 |          0 |         14 |         72 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\Chat.css                       | CSS                |         27 |          0 |          3 |         30 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\Chat.tsx                       | TypeScript JSX     |        106 |          1 |         30 |        137 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\ChatContainer.tsx         | TypeScript JSX     |         94 |          0 |          5 |         99 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\Container.css             | CSS                |         21 |          0 |          4 |         25 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\Container.tsx             | TypeScript JSX     |         60 |          0 |          2 |         62 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\ProfileContainer.tsx      | TypeScript JSX     |         65 |          0 |          6 |         71 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\RecomContainer.tsx        | TypeScript JSX     |         93 |          0 |          7 |        100 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\TempContainer.tsx         | TypeScript JSX     |        103 |          0 |          3 |        106 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\Filter.css                   | CSS                |          6 |          0 |          0 |          6 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\Filter.tsx                   | TypeScript JSX     |         32 |          0 |          4 |         36 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\FilterOption.tsx             | TypeScript JSX     |         21 |          0 |          2 |         23 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Form\Form.tsx                       | TypeScript JSX     |         26 |          0 |          4 |         30 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Form\UploadImageForm.tsx            | TypeScript JSX     |         42 |          0 |          7 |         49 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendRequest\Request.tsx           | TypeScript JSX     |         92 |          1 |         14 |        107 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendRequest\Requests.tsx          | TypeScript JSX     |         44 |          0 |          9 |         53 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Friends\FriendChat.tsx              | TypeScript JSX     |         64 |          0 |         15 |         79 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Friends\FriendsChat.tsx             | TypeScript JSX     |         39 |          0 |          5 |         44 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\LeftSideBar\Leftsidebar.css         | CSS                |          8 |          0 |          1 |          9 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\Login.tsx                     | TypeScript JSX     |        107 |          0 |         11 |        118 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\LoginLayout.tsx               | TypeScript JSX     |         10 |          0 |          4 |         14 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\LoginSide.tsx                 | TypeScript JSX     |        129 |          0 |          7 |        136 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\Movie.css                     | CSS                |        122 |          0 |         27 |        149 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\Movie.tsx                     | TypeScript JSX     |         84 |          0 |          6 |         90 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\MoviePage.tsx                 | TypeScript JSX     |         54 |          0 |         10 |         64 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Collection.css     | CSS                |         21 |          0 |          4 |         25 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Collection.tsx     | TypeScript JSX     |         81 |          0 |         16 |         97 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\CreatePost.tsx     | TypeScript JSX     |        117 |          0 |         10 |        127 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Movie.tsx          | TypeScript JSX     |         66 |          0 |          4 |         70 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\SendToFriend.tsx   | TypeScript JSX     |        121 |          2 |         20 |        143 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Mylist\ListMovie.tsx                | TypeScript JSX     |         45 |          0 |          5 |         50 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Mylist\Mylist.tsx                   | TypeScript JSX     |         52 |          0 |          5 |         57 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\NavBar\NavBar.tsx                   | TypeScript JSX     |        184 |          0 |         27 |        211 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\NotFound\NotFound.tsx               | TypeScript JSX     |         37 |          0 |          5 |         42 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Comment.tsx                    | TypeScript JSX     |         29 |          0 |          3 |         32 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\CreatePost.tsx                 | TypeScript JSX     |        105 |          0 |         13 |        118 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Post.css                       | CSS                |          4 |          0 |          0 |          4 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Post.tsx                       | TypeScript JSX     |        210 |          2 |         52 |        264 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Posts.tsx                      | TypeScript JSX     |        107 |          1 |         24 |        132 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Profile\Profile.tsx                 | TypeScript JSX     |        144 |          0 |         22 |        166 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ProtectedRoute\ProtectedRoute.tsx   | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ProtectedRoute\ProtectedWrapper.tsx | TypeScript JSX     |          5 |          0 |          2 |          7 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\AddFriends.tsx      | TypeScript JSX     |         39 |          0 |          6 |         45 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\Friend.tsx          | TypeScript JSX     |         98 |          2 |         13 |        113 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\Recommendations.tsx | TypeScript JSX     |         67 |          0 |         13 |         80 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Register\Register.tsx               | TypeScript JSX     |        103 |          0 |          9 |        112 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Register\RegisterSide.tsx           | TypeScript JSX     |        132 |          0 |         10 |        142 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ResetPassword\ResetPassword.tsx     | TypeScript JSX     |         51 |          2 |          9 |         62 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\Movie.css              | CSS                |         12 |          0 |          1 |         13 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightMovie.tsx         | TypeScript JSX     |         40 |          0 |         10 |         50 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightSideBar.css       | CSS                |          4 |          0 |          1 |          5 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightSideBar.tsx       | TypeScript JSX     |         52 |          0 |          8 |         60 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\SearchBar\SearchBar.tsx             | TypeScript JSX     |         49 |          1 |          9 |         59 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\Loading.tsx                    | TypeScript JSX     |          9 |          0 |          2 |         11 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\NavBarNotifications.tsx        | TypeScript JSX     |         41 |          0 |         10 |         51 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\NavBarRequests.tsx             | TypeScript JSX     |         45 |          0 |          9 |         54 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\Tabs.tsx                       | TypeScript JSX     |        116 |          0 |         13 |        129 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\User.css                      | CSS                |         21 |          0 |          3 |         24 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\User.tsx                      | TypeScript JSX     |         59 |          0 |         13 |         72 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\UserSide.tsx                  | TypeScript JSX     |         21 |          0 |          4 |         25 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\Users.tsx                     | TypeScript JSX     |         38 |          0 |          6 |         44 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\img\logo.svg                                   | XML                |         53 |          0 |          1 |         54 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\index.css                                      | CSS                |         18 |          0 |          6 |         24 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\index.tsx                                      | TypeScript JSX     |        132 |         29 |         11 |        172 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\logo.svg                                       | XML                |          1 |          0 |          0 |          1 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\react-app-env.d.ts                             | TypeScript         |          0 |          1 |          1 |          2 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\reportWebVitals.ts                             | TypeScript         |         13 |          0 |          3 |         16 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\src\setupTests.ts                                  | TypeScript         |          1 |          4 |          1 |          6 |
+| e:\asdsadasd\FrontasBakio\bakiofrontas\tsconfig.json                                      | JSON with Comments |         26 |          0 |          1 |         27 |
+| Total                                                                                     |                    |     16,831 |         69 |        625 |     17,525 |
++-------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

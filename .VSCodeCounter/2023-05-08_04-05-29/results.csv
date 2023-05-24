@@ -1,0 +1,94 @@
+"filename", "language", "JSON with Comments", "TypeScript", "JSON", "Markdown", "XML", "CSS", "HTML", "TypeScript JSX", "comment", "blank", "total"
+"e:\asdsadasd\FrontasBakio\bakiofrontas\README.md", "Markdown", 0, 0, 0, 26, 0, 0, 0, 0, 0, 21, 47
+"e:\asdsadasd\FrontasBakio\bakiofrontas\package-lock.json", "JSON", 0, 0, 12598, 0, 0, 0, 0, 0, 0, 1, 12599
+"e:\asdsadasd\FrontasBakio\bakiofrontas\package.json", "JSON", 0, 0, 55, 0, 0, 0, 0, 0, 0, 1, 56
+"e:\asdsadasd\FrontasBakio\bakiofrontas\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 20, 0, 23, 1, 44
+"e:\asdsadasd\FrontasBakio\bakiofrontas\public\manifest.json", "JSON", 0, 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.css", "CSS", 0, 0, 0, 0, 0, 33, 0, 0, 0, 7, 40
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 8, 0, 2, 10
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\App.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 12, 0, 3, 15
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Api\Api.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 87, 0, 22, 109
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Callendar\Callendar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 93, 2, 23, 118
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Callendar\DatePicker.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 28, 0, 3, 31
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\AllChallenge.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 54, 0, 18, 72
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\Challenge.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 41, 0, 10, 51
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\ChallengeForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 168, 0, 4, 172
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\ChallengeTest.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 77, 0, 12, 89
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\ChallengesAllModal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 72, 3, 13, 88
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\ChallengesBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 74, 0, 16, 90
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Challenge\ChallengesModal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 67, 0, 8, 75
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\Chat.css", "CSS", 0, 0, 0, 0, 0, 51, 0, 0, 0, 8, 59
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\Chat.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 142, 1, 30, 173
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\ChatMovie.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 109, 1, 14, 124
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Chat\SendMessage.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 82, 0, 11, 93
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\ChatContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 131, 1, 18, 150
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\Container.css", "CSS", 0, 0, 0, 0, 0, 21, 0, 0, 0, 4, 25
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\Container.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 60, 0, 2, 62
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\ProfileContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 71, 0, 5, 76
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\RecomContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 93, 0, 7, 100
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Container\TempContainer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 103, 0, 3, 106
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\Filter.css", "CSS", 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 6
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\Filter.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 34, 0, 4, 38
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Filter\FilterOption.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 21, 0, 2, 23
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Form\ChallengeForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 155, 0, 18, 173
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Form\Form.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 26, 0, 4, 30
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Form\UploadImageForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 42, 0, 7, 49
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendRequest\Request.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 89, 2, 13, 104
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendRequest\Requests.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 38, 1, 9, 48
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendsChat\FriendChat.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 77, 0, 16, 93
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\FriendsChat\FriendsChat.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 40, 0, 4, 44
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\LeftSideBar\Leftsidebar.css", "CSS", 0, 0, 0, 0, 0, 8, 0, 0, 0, 1, 9
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\Login.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 107, 0, 11, 118
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\LoginLayout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 10, 0, 4, 14
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Login\LoginSide.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 129, 0, 7, 136
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\Movie.css", "CSS", 0, 0, 0, 0, 0, 133, 0, 0, 0, 30, 163
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\Movie.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 118, 0, 19, 137
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Movie\MoviePage.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 54, 0, 10, 64
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Collection.css", "CSS", 0, 0, 0, 0, 0, 31, 0, 0, 0, 8, 39
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Collection.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 82, 0, 16, 98
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\CreatePost.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 118, 0, 10, 128
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\Movie.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 109, 0, 14, 123
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\MoviesCollection\SendToFriend.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 126, 0, 17, 143
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Mylist\ListMovie.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 45, 0, 5, 50
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Mylist\Mylist.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 52, 0, 5, 57
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\NavBar\NavBar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 184, 0, 27, 211
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\NotFound\NotFound.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 37, 0, 5, 42
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Comment.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 53, 0, 3, 56
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Post.css", "CSS", 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Post.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 226, 1, 50, 277
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Post\Posts.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 107, 1, 24, 132
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Profile\Profile.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 153, 0, 23, 176
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ProtectedRoute\ProtectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 17, 0, 3, 20
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ProtectedRoute\ProtectedWrapper.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 5, 0, 2, 7
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\AddFriends.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 40, 0, 4, 44
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\Friend.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 118, 2, 14, 134
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Recommendations\Recommendations.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 68, 0, 14, 82
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Register\Register.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 103, 0, 9, 112
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Register\RegisterSide.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 133, 0, 10, 143
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ResetPassword\ResetPassword.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 51, 2, 9, 62
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ResetPassword\ResetPasswordEmailSide.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 87, 0, 6, 93
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\ResetPassword\ResetPasswordNewCurrentPasswordSide.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 121, 2, 10, 133
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\Movie.css", "CSS", 0, 0, 0, 0, 0, 12, 0, 0, 0, 1, 13
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightMovie.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 40, 0, 10, 50
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightSideBar.css", "CSS", 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\RightSideBar\RightSideBar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 52, 0, 8, 60
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\SearchBar\SearchBar.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 49, 1, 10, 60
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\Loading.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 9, 0, 2, 11
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\NavBarNotifications.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 37, 0, 11, 48
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\NavBarRequests.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 45, 0, 9, 54
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Tabs\Tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 126, 0, 17, 143
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\User.css", "CSS", 0, 0, 0, 0, 0, 21, 0, 0, 0, 3, 24
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\User.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 59, 0, 13, 72
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\UserSide.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 39, 0, 5, 44
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\Users.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 40, 0, 6, 46
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\components\Users\UsersModal.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 47, 0, 3, 50
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\img\logo.svg", "XML", 0, 0, 0, 0, 53, 0, 0, 0, 0, 1, 54
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\index.css", "CSS", 0, 0, 0, 0, 0, 18, 0, 0, 0, 6, 24
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 134, 30, 7, 171
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\logo.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\reportWebVitals.ts", "TypeScript", 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"e:\asdsadasd\FrontasBakio\bakiofrontas\src\setupTests.ts", "TypeScript", 0, 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"e:\asdsadasd\FrontasBakio\bakiofrontas\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"e:\asdsadasd\FrontasBakio\package-lock.json", "JSON", 0, 0, 27, 0, 0, 0, 0, 0, 0, 1, 28
+"Total", "-", 26, 14, 12705, 26, 54, 342, 20, 5224, 78, 835, 19324
