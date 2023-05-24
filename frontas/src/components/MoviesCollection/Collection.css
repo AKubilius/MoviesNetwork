@@ -1,0 +1,39 @@
+.collection{
+    margin-top: 20px;
+    justify-self: start;
+}
+
+.movies{
+    display: flex;
+    align-items: start;
+    
+
+}
+
+.movies a{
+    align-self: auto;
+    margin-top: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.movies p{
+    align-items: end;
+    justify-content: start;
+}
+.movieDesc{
+    
+    align-items: start;
+}
+
+.genres {
+    margin: 1rem 0;
+}
+
+.genre {
+    padding: .2rem;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size:small;
+}

@@ -1,0 +1,24 @@
+.name {
+    font-size: small;
+    margin-top: 0;
+    display: flex;
+    justify-content: start;
+  }
+  
+  .username {
+    justify-content: start;
+    margin-bottom: 0;
+  }
+  
+  .user {
+    align-items: start;
+    width: 100%;
+  }
+  
+  .addButton {
+    display: flex;
+    justify-content: end;
+    margin-right: 10px;
+    align-items: center;
+    width: 100%;
+  }

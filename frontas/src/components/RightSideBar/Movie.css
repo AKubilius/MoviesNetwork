@@ -1,0 +1,13 @@
+.movie p{
+    margin: 0;
+    justify-content: center;
+    align-content: center;
+    height: 38px;
+    line-height: 1.2;
+    display: flex;
+    text-align: center;
+}
+
+.movies{
+    justify-content: end;
+}

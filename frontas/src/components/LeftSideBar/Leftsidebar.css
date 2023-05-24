@@ -1,0 +1,9 @@
+.leftsidebar{
+    margin-top: 50px;
+    margin-left: 50px;
+    flex:0.15;
+    position: absolute;
+    top:69;
+    color: black;
+
+}

@@ -1,0 +1,59 @@
+.message {
+    
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+  }  
+  .message {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .message-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 70%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    padding: 8px; 
+    border-radius: 4px;
+  }
+  
+  .my-message .message-content {
+    align-self: flex-end;
+    background-color:#d1e7ff ;/**/ 
+    color:black;
+  }
+  
+  .other-message .message-content {
+    align-self: flex-start;
+    background-color: #f1f1f1;/* #f1f1f1*/ 
+    color:black;
+  }
+
+  .my-message .message-content.Accept {
+    align-self: flex-end;
+    background-color:#aaff99 ;/**/ 
+    color:black;
+  }
+  
+  .my-message .message-content.Decline {
+    align-self: flex-end;
+    background-color: #f76565;/* #f1f1f1*/ 
+    color:black;
+  }
+
+  .other-message .message-content.Decline {
+    align-self: flex-start;
+    background-color: #f76565;/* #f1f1f1*/ 
+    color:black;
+  }
+
+  .other-message .message-content.Accept {
+    align-self: flex-start;
+    background-color:#aaff99 ;/**/ 
+    color:black;
+  }

@@ -1,0 +1,24 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+aside{
+    padding-top: 80px;
+    top: 0;
+    position: sticky;
+    
+}
+img{
+    position: inherit;
+}
+main{
+    padding-top: 40px;
+}
+ p {
+   
+    align-self: center;
+   justify-content: center;
+   display: flex;
+}
